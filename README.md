@@ -21,7 +21,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="80" height="80"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80"/>
 
-<p>You can click on the link with my NAME to see my certificates and certificates.</p>
+<p>You can click on the link with my NAME to see my certificates.</p>
 <br>
 
 ## My best projects
