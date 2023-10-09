@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">&#128512 Hi, welcome to my GitHub profile! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm <a href="https://mega.nz/folder/cz5HnLYQ#oWe8Qg9C9G-ieaY5RMzBlw">Sebastián</a></h1>
+<h1>&#128512 Hi, welcome to my GitHub profile! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Sebastián</h1>
 <p>Here you will find examples of projects I have worked on, as well as information about my skills and experience. If you are looking for a backend trainee developer with the right attitude, talent and willingness, don't hesitate to contact me. I would love the opportunity to talk to you about how we can work together! &#128188</p>
 
 
@@ -21,7 +21,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="80" height="80"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80"/>
 
-<p>You can click on the link with my NAME to see my certificates.</p>
+<p>You can click <a href="https://mega.nz/folder/cz5HnLYQ#oWe8Qg9C9G-ieaY5RMzBlw">HERE</a> to see my certificates</p>
 <br>
 
 ## My best projects
