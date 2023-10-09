@@ -1,5 +1,6 @@
 <div align="center">
-<h1>&#128512 Hi, welcome to my GitHub profile! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Sebastián</h1>
+<h1>&#128512 Hi, welcome to my GitHub profile! <p>I'm Sebastián</p></h1>
+<img width="40px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 
 <p>Here you will find examples of projects I have worked on, as well as information about my skills and experience. If you are looking for a backend trainee developer with the right attitude, talent and willingness, don't hesitate to contact me. I would love the opportunity to talk to you about how we can work together! &#128188</p>
 
 
