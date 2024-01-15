@@ -14,13 +14,23 @@
 ## My skills
 
 - POO
-- Java with Maven on NetBeans IDE
-- SQL with MariaDB, MySQL and Microsoft SQL Server
+- Java with NetBeans and IntelliJ IDEA
+- SQL with MySQL and Microsoft SQL Server
 - GIT basic usage
+- Spring basic usage
 
-<img src="https://chuidiang.org/images/9/9a/JAVA.png" width="80" height="80"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="80" height="80"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80"/>
+<table border="0">
+    <tr>
+        <td><img src="https://chuidiang.org/images/9/9a/JAVA.png" width="80" height="80"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="80" height="80"/></td>
+        <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" height="80"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" width="80" height="80"/></td>
+        <td><img src="https://maven.apache.org/images/maven-logo-white-on-black.png" width="80" height="80"/></td>
+        <td><img src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" width="80" height="80"/></td>
+    </tr>
+</table>
 
 <p>You can click <a href="https://mega.nz/folder/cz5HnLYQ#oWe8Qg9C9G-ieaY5RMzBlw">HERE</a> to see my certificates</p>
 <br>
